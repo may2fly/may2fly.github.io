@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 硬件
+title: 智能家居知识汇总
 subtitle:  
 categories: 目录索引
 index: true
