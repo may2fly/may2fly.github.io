@@ -6,6 +6,7 @@ index: true
 ---
 
 ## 读书笔记汇总
+[《纳瓦尔宝典》笔记]({% post_url 2023-03-15-read-naval-valueable %})
 
 ## 研发环境配置备忘
 
