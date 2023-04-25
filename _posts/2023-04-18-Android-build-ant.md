@@ -3,7 +3,6 @@ layout: post
 title: Ant
 subtitle: Android构建工具Ant介绍
 categories: Android
-tags: Android
 ---
 
 Ant（Apache Ant）是一个开源的构建工具，用于自动化构建、测试和部署Java应用程序。Ant是一种基于XML的构建工具，使用简单，灵活性高，并且可以与其他工具无缝集成。

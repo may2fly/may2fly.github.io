@@ -3,7 +3,7 @@ layout: post
 title: Maven
 subtitle: Android构建工具Maven介绍
 categories: Android
-tags: Android
+tags: [Android]
 ---
 
 Maven是一个基于Java的项目管理和构建自动化工具。它的主要作用是管理项目依赖、构建项目、运行测试和部署项目。Maven使用XML文件来配置项目，并通过中央仓库和其他远程仓库来获取依赖项。
