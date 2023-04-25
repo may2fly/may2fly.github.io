@@ -2,7 +2,7 @@
 layout: post
 title: Kotlin教程-概念
 categories: Android
-tags: Android、Kotlin
+tags: Android, Kotlin
 ---
 
 # 类型

@@ -2,7 +2,7 @@
 layout: post
 title: Kotlin教程-基础
 categories: Android
-tags: Android、Kotlin
+tags: Android, Kotlin
 ---
 
 # 1、基本语法

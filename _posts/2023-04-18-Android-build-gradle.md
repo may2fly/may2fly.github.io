@@ -3,7 +3,7 @@ layout: post
 title: Gradle
 subtitle: Android构建工具Gradle介绍
 categories: Android
-tags: android
+tags: Android
 ---
 
 # Gradle 概述
