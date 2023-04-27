@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: 网络常见问题介绍
 categories: 网络协议
-tags: [test]
 ---
 
 # 1、常见问题

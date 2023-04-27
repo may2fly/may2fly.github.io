@@ -24,4 +24,7 @@ index: true
 * [浏览器如何完成工作流程？]({% post_url 2023-04-02-browser-request-process %})
 
 
+## 其他
 
+* [网络常见问题介绍]({% post_url 2023-03-30-network-note-index %})
+* [什么是CDN？]({% post_url 2023-04-27-network-CDN %})
