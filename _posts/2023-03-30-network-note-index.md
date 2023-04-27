@@ -20,8 +20,8 @@ index: true
 ## 协议介绍
 
 * [TCP协议]({% post_url 2023-04-02-network-TCP-note %})
-* [如何设计一个协议?]({% post_url 2023-04-04-network-How-to-design-protocol-note %})
-* [浏览器如何完成工作流程？]({% post_url 2023-04-02-browser-request-process %})
+<!-- * [如何设计一个协议?]({% post_url 2023-04-04-network-How-to-design-protocol-note %})
+* [浏览器如何完成工作流程？]({% post_url 2023-04-02-browser-request-process %}) -->
 
 
 ## 其他
