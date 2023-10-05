@@ -13,6 +13,8 @@ index: true
 
 [计算广告]({% 2023-05-14-read-computational-ad %})
 
+[从0开始学架构]({% 2023-10-05-read-software-architecture %})
+
 ## 研发环境配置备忘
 
 ## 示例项目备忘
